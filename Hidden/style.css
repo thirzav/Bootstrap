@@ -1,0 +1,32 @@
+.green {
+    height: 80px;
+    border: 5px solid white;
+}
+
+.red {
+    height: 78vh;
+    border: 5px solid white;
+}
+
+.pink{
+    height: 10vh;
+    background-color: pink;
+    margin: 10px;
+}
+
+.orange {
+    height: 30vh;
+    background-color: orange;
+    border: 5px solid white;
+}
+
+.blue {
+    height: 18vh;
+    background-color: blue;
+    border: 5px solid white;
+}
+
+.green2 {
+    height: 40px;
+    border: 5px solid white;
+}
