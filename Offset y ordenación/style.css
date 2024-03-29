@@ -1,0 +1,36 @@
+.green{
+    height: 5vh;
+    color: white;
+    border: 2px solid black ;
+    margin: 5px;
+}
+
+.darkBlue {
+    height: 20vh;
+    border: 2px solid white;
+    background-color: darkcyan;
+    --padding: 2px;
+    padding: var(--padding);
+    box-shadow: inset 0 0 0 var(--padding)
+        black;
+}
+
+.gris {
+    height: 20vh;
+    border: 2px solid white;
+    background-color: gray;
+    --padding: 2px;
+    padding: var(--padding);
+    box-shadow: inset 0 0 0 var(--padding)
+        black;
+}
+
+.orange {
+    height: 20vh;
+    border: 2px solid white;
+    background-color: orange;
+    --padding: 2px;
+    padding: var(--padding);
+    box-shadow: inset 0 0 0 var(--padding)
+        black;
+}
